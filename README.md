@@ -18,7 +18,7 @@ Projeto para a cadeira de Métodos Numéricos da Universidade Católica de Perna
 3. Abra o Notebook que deseja executar no Google Colab;
 4. Faça suas simulações.
 
-[](https://user-images.githubusercontent.com/58193125/112509196-0170fb80-8d6f-11eb-8d74-b6452270679d.mp4)
+![MeNumTutorial ‐ Made with Clipchamp (1)](https://user-images.githubusercontent.com/58193125/112511709-6fb6bd80-8d71-11eb-9bc4-ce74d81c1be5.gif)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
