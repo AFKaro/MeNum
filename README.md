@@ -16,4 +16,4 @@ Projeto para a cadeira de Métodos Numéricos da Universidade Católica de Perna
 
    [Python]: <https://www.java.com/pt-BR/download/manual.jsp>
    [Google Colab]: <https://colab.research.google.com/>
-   [Zeros de funções]: <https://colab.research.google.com/drive/1Ygm0zoQspc3LAav7mxOFlXwKpfAOFR_p?usp=sharing>
+   [Zeros de funções]: <https://github.com/AFKaro/MeNum/blob/main/Notebooks/MeNum_Zeros_De_Funcoes.ipynb>
