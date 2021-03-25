@@ -1,6 +1,6 @@
 # ![parabola](https://user-images.githubusercontent.com/58193125/112498952-c3bba500-8d65-11eb-914b-ee3e50d43037.png) MeNum 
-## _Um conjunto de notebooks para Metodos Numericos_
-Projeto para a cadeira de Metodos Numéricos da Universidade Católica de Pernambuco (UNICAP).
+## _Um conjunto de notebooks para Métodos Numéricos_
+Projeto para a cadeira de Métodos Numéricos da Universidade Católica de Pernambuco (UNICAP).
 
 > Status do Projeto: Em desenvolvimento :warning:
 
