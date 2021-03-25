@@ -18,7 +18,7 @@ Projeto para a cadeira de Métodos Numéricos da Universidade Católica de Perna
 3. Abra o Notebook que deseja executar no Google Colab;
 4. Faça suas simulações.
 
-[<img src="https://user-images.githubusercontent.com/58193125/112508636-814a9600-8d6e-11eb-8d87-33e21dac77f7.gif" width="50%">](https://user-images.githubusercontent.com/58193125/112508636-814a9600-8d6e-11eb-8d87-33e21dac77f7.gif>)
+[](https://user-images.githubusercontent.com/58193125/112509196-0170fb80-8d6f-11eb-8d74-b6452270679d.mp4)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
