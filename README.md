@@ -6,7 +6,7 @@ Projeto para a cadeira de Métodos Numéricos da Universidade Católica de Perna
 
 ## Notebooks
 - [Zeros de funções] - Geralmente chamamos de zeros de funções ou raiz da função um ponto onde a função é igual a zero.
-
+- [Sistemas de equações] - Método de Gauss e Jacobi.
 ## Tecnologias utilizadas
 
 - [Python] - Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte;
@@ -25,3 +25,4 @@ Projeto para a cadeira de Métodos Numéricos da Universidade Católica de Perna
    [Python]: <https://www.java.com/pt-BR/download/manual.jsp>
    [Google Colab]: <https://colab.research.google.com/>
    [Zeros de funções]: <https://github.com/AFKaro/MeNum/blob/main/Notebooks/MeNum_Zeros_De_Funcoes.ipynb>
+   [Sistemas de equações]: <https://github.com/AFKaro/MeNum/blob/main/Notebooks/MeNum_Sistemas_De_Equacoes_Lineares.ipynb>
